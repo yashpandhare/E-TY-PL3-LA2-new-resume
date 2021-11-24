@@ -1,0 +1,86 @@
+h1{
+    font-size: 32px;
+}
+
+h2{
+    font-size: 28px;
+}
+
+h4{
+    font-size: 24px;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+b{
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 14px;
+}
+
+.img-responsive{
+    width: 100%;
+    height: auto;
+}
+
+.clr{
+	clear: left;
+	clear: right;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.infoHead img{
+    height: 150px;
+    
+}
+
+.infoHead h1{
+
+}
+
+.infoHead h2{
+    font-size: 14px;
+}
+
+.infoHead h4{
+    font-size: 14px;
+}
+
+.info1{
+    margin-top: 20px;
+}
+
+.row1 {
+	display: flex;
+}
+  
+.Town{
+	margin-top: 100px;
+}
+
+.column3 img{
+    height: 245px;
+    /*margin-right: 58PX;*/
+}
+
+.column4 img{
+    height: 245px;
+    margin-inline: 8px;
+}
+
+.column5 img{
+    height: 245px;
+}
+
+.info2{
+    margin-top: 50px;
+}
